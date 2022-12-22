@@ -2,7 +2,7 @@
 
 Console.Clear();
 
-Console.Write("Введите любое число или слово");
+Console.Write("Введите любое число или слово: ");
 string num = Console.ReadLine();
 int numTxt = num.Length;
 
